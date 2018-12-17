@@ -1,0 +1,122 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial;
+    background: "imgages/task2.jpg";
+
+}
+
+table {
+    color: white;
+    border: 1px solid #94ca50;
+    text-align: center;
+    background-color: #666666;
+    border="1px";
+}
+
+.topnav {
+    background-color: #666666;
+    overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+/* Change the color of links on hover */
+
+.topnav a:hover {
+    background-color: #94ca50;
+    color: white;
+}
+
+/* Add a color to the active/current link */
+
+.topnav a.active {
+    background-color: #94ca50;
+    color: white;
+}
+
+
+input {
+    border-radius: 3px;
+    width: 500px;
+    height: 40px;
+    margin-bottom: 10px;
+    padding: 5px;
+    font-size: 15px;
+}
+
+img {
+    margin: auto;
+    display: block;
+    height: auto;
+    width: auto;
+    max-width: 500px;
+    max-height: 500px;
+}
+
+#logintext {
+    text-align: center;
+}
+
+h1,
+h3,
+h6 {
+    color: white;
+}
+
+form {
+    background-color: #94ca50;
+    opacity: .8;
+}
+
+
+input[type=submit] {
+    border-radius: 5px;
+    border: 1px solid #006600;
+    background-color: #336600;
+    color: #fff;
+    height: 30px;
+    width: 100px;
+
+}
+
+select {
+    border-radius: 3px;
+    width: 515px;
+    height: 40px;
+    margin-bottom: 10px;
+    padding: 5px;
+    font-size: 15px;
+}
+
+button {
+
+    border-radius: 5px;
+    border: 1px solid #006600;
+    background-color: #339900;
+    color: #fff;
+    height: 50px;
+    width: 250px;
+    font-size: 20px;
+}
+
+a#registo {
+
+    border-radius: 5px;
+    border: 1px solid #006600;
+    background-color: #339900;
+    color: #fff;
+    font-size: 16px;
+    text-decoration: none;
+    padding: 7px;
+
+}
