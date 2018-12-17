@@ -6,6 +6,6 @@ Web Application that helps students keep track of their activities and tasks, wh
 These web app as a Administrator back office, where he can delete, create or edit users (students).
 
 
-Project made by Pedro Gomes and Pedro Alves, ISMT 2017
+Project made by Pedro Gomes and Pedro Alves, ISMT 2017/2018
 
 =================================================================================
