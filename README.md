@@ -20,4 +20,4 @@
 
 ---
 
-Project made by Pedro Gomes and Pedro Alves, 2017/2018
+Made by Pedro Gomes, 2017/2018
