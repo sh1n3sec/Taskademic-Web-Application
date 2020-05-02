@@ -1,6 +1,8 @@
 # Taskademic-Web-Application-
 **A Web Application about managing student tasks and student activities.**
 
+---
+
 * Web Application that helps students keep track of their 
   * Activities and tasks, where they can add their: 
     * courses
@@ -16,6 +18,6 @@
 
 * The index page is home.php.
 
-
+---
 
 Project made by Pedro Gomes and Pedro Alves, 2017/2018
