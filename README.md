@@ -18,7 +18,7 @@
 
 * The index page is home.php.
 
-* Really basic php programming with SQL injection vulnerabilities. Ideal for pentesting lab exercises.
+* Really basic PHP programming with SQL injection vulnerabilities. Ideal for pentesting lab exercises.
 
 ---
 
